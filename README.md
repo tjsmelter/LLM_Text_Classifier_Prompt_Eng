@@ -10,7 +10,8 @@ Project was built in conjunction with instruction provided by Nachiketa Hebbar
 
 Kaggle Sample View   |   Few-shot Output
 :-------------------------:|:-------------------------:
-<img width="363" height="447" alt="image" src="https://github.com/user-attachments/assets/72774838-2c4e-4c04-a5d9-3741839ed8ea" />  |  <img width="612" height="792" alt="image" src="https://github.com/user-attachments/assets/1c7c6297-972c-45ad-a10f-650dc67b8baf" />
+<img width="363" height="447" alt="image" src="https://github.com/user-attachments/assets/72774838-2c4e-4c04-a5d9-3741839ed8ea" />  |  <img width="604" height="387" alt="image" src="https://github.com/user-attachments/assets/dc5a8da9-7709-4bc1-a093-376546bf3a08" />
+
 
 
 
